@@ -14,8 +14,6 @@ php artisan db:seed
 php artisan serve
 ```
 
-The seeder adds two readers and five sample books (two borrowed, three available). It can be run again safely without duplicating those records.
-
 Alap URL: `http://127.0.0.1:8000/api`.
 
 ## Vegpontok
